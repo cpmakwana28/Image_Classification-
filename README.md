@@ -1,2 +1,2 @@
 # Image_Classification-
-Used torchvision library to work on image classification using resnet
+Used torchvision library to do some image classification using resnet
